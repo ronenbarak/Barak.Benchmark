@@ -1,0 +1,5 @@
+1/17/2015 8:52:06 PM
+C:\Git\Barak.Benchmark\Barak.Benchmark.git\src\Barak.Benchmark.Presentation\Properties\AssemblyInfo.cs
+C:\Git\Barak.Benchmark\Barak.Benchmark.git\src\Barak.Benchmark.Sample\Properties\AssemblyInfo.cs
+C:\Git\Barak.Benchmark\Barak.Benchmark.git\src\Barak.Benchmark.Tests\Properties\AssemblyInfo.cs
+C:\Git\Barak.Benchmark\Barak.Benchmark.git\src\Barak.Benchmark\Properties\AssemblyInfo.cs
