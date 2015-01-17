@@ -1,0 +1,1 @@
+src\Utilities\Barak.VersionPatcher.exe /vcPath:master /vcUrl:https://github.com/ronenbarak/Barak.Benchmark.git /fsPath:%~dp0 /commit:false /recursive:true
